@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm a passionate developer, open-source enthusiast
 
 - 💥 [Top Contributor in Open-Source Project](https://github.com/Ryan-Guizhou) — for contributing significant features
 - 🏅 [Certified Developer in Python](https://www.example.com) — Obtained certification from XYZ
-- 💯 [Completed 100+ LeetCode Problems](https://leetcode.com/YourUsername) — Solved 100+ coding problems
+- 💯 [Completed 100+ LeetCode Problems](https://leetcode.com/Ryan-Guizhou) — Solved 100+ coding problems
 
 ---
 
