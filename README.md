@@ -1,4 +1,6 @@
 ## Hi there 👋
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Ryan-Guizhou&left_color=green&right_color=red)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Guizhou&show_icons=true&theme=transparent)
 
 **About Me**
@@ -6,6 +8,7 @@
 - 
 
 **Work Experence**
+
 
 
 ****
