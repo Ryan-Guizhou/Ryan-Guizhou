@@ -18,46 +18,38 @@ Welcome to my GitHub profile! I'm a passionate developer, open-source enthusiast
 
 ## 🔥 Projects I'm Proud Of
 
-### 📚 [Project 1: Project Name](https://github.com/YourUsername/project1)
+### 📚 [Project 1: peach-security](https://github.com/Ryan-Guizhou/peach-security)
 - **Description**: A short, catchy description of your project.
 - **Tech Stack**: React, Node.js, MongoDB, etc.
-- **Stars**: ![Stars](https://img.shields.io/github/stars/YourUsername/project1?style=social)
-- **Forks**: ![Forks](https://img.shields.io/github/forks/YourUsername/project1?style=social)
+- **Stars**: ![Stars](https://img.shields.io/github/stars/Ryan-Guizhou/peach-security?style=social)
+- **Forks**: ![Forks](https://img.shields.io/github/forks/Ryan-Guizhou/peach-security1?style=social)
 
-### 🧠 [Project 2: Project Name](https://github.com/YourUsername/project2)
+### 🧠 [Project 2: file-service](https://github.com/Ryan-Guizhou/file-service )
 - **Description**: Another project with a unique description.
 - **Tech Stack**: Python, Flask, PostgreSQL, etc.
-- **Stars**: ![Stars](https://img.shields.io/github/stars/YourUsername/project2?style=social)
-- **Forks**: ![Forks](https://img.shields.io/github/forks/YourUsername/project2?style=social)
-
----
-
-## 📈 My GitHub Activity
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ryan-Guizhou&theme=github)
+- **Stars**: ![Stars](https://img.shields.io/github/stars/Ryan-Guizhou/file-service?style=social)
+- **Forks**: ![Forks](https://img.shields.io/github/forks/Ryan-Guizhou/file-service?style=social)
 
 ---
 
 ## 📫 How to Reach Me
 
 - 📧 **Email**: [huanhuanshu48@gmail.com](mailto:your.email@example.com)
-- 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- 🐦 **Twitter**: [@YourUsername](https://twitter.com/YourUsername)
-- 🌐 **Personal Website**: [www.yourwebsite.com](https://www.yourwebsite.com)
-- 💬 **Discord**: YourUsername#1234
+- 🐦 **Twitter**: [@Ryan-Guizhou](https://twitter.com/YourUsername)
+- 💬 **Discord**: Ryan-Guizhou#1234
 
 ---
 
 ## 🔗 Open-Source Contributions
 
-- 🌱 [**Contributions to Project 1**](https://github.com/YourUsername/project1) — contributed new features and bug fixes
-- ✨ [**Contributions to Project 2**](https://github.com/OtherUser/project2) — resolved issues and added documentation
+- 🌱 [**Contributions to Project 1**](https://github.com/Ryan-Guizhou/peach-security) — contributed new features and bug fixes
+- ✨ [**Contributions to Project 2**](https://github.com/Ryan-Guizhou/file-service) — resolved issues and added documentation
 
 ---
 
 ## 🏆 Achievements & Badges
 
-- 💥 [Top Contributor in Open-Source Project](https://github.com/YourUsername) — for contributing significant features
+- 💥 [Top Contributor in Open-Source Project](https://github.com/Ryan-Guizhou) — for contributing significant features
 - 🏅 [Certified Developer in Python](https://www.example.com) — Obtained certification from XYZ
 - 💯 [Completed 100+ LeetCode Problems](https://leetcode.com/YourUsername) — Solved 100+ coding problems
 
