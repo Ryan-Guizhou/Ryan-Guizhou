@@ -1,7 +1,7 @@
 ## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Guizhou&show_icons=true&theme=transparent)
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryan-Guizhou)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Ryan-Guizho&left_color=green&right_color=red)
+![Metrics](/github-metrics.svg)
+
+
 
 
 <!--
